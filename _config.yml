@@ -1,11 +1,10 @@
 # Site settings
-title: Andrej Karpathy blog
+title: mersidof
 email: 
-description: "Musings of a Computer Scientist."
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://mersidof.github.io"
+github_username:  mersidof
+paginate: 5
 
 # Build settings
 markdown: kramdown
